@@ -1,3 +1,2 @@
 # rsschool-cv
-##info
-###new info
+https://ValentinaMol.github.io/rsschool-cv/cv
